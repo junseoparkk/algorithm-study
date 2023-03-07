@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class Baek_3273{
 	public static void main(String[] args) throws IOException{
 		BufferedReader bf=new BufferedReader(new InputStreamReader(System.in));
 		
