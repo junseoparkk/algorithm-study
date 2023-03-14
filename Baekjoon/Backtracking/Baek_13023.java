@@ -1,4 +1,4 @@
-package Backtrackiing;
+package Backtracking;
 import java.util.*;
 
 public class Baek_13023{
