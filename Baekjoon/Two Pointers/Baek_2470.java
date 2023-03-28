@@ -34,6 +34,6 @@ public class Baek_2470{
 			else
 				l++;
 		}
-		System.out.print(a+" "+b);
+		System.out.println(a+" "+b);
 	}
 }
