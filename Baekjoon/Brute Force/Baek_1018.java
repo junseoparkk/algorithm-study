@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class Baek_1018{
 	static boolean[][] chess;	//true:W, false:B
 	static int min=64;
 	
